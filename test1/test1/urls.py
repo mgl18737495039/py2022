@@ -19,3 +19,6 @@ from django.urls import path
 urlpatterns = [
     path('admin/', admin.site.urls),
 ]
+"""项目url
+通过urlpatterns
+列表中内容"""
